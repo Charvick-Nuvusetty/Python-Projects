@@ -3,3 +3,4 @@ Python is one of the most popular programming languages currently. It looks like
 
 1) Number Guessing Game
 2) Rock Paper Scissors
+3) Calculator
